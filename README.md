@@ -66,7 +66,7 @@ Deux critères ont été utilisés :
 
 📊 **Histogramme des valeurs propres :**
 
-![Valeurs propres - Critère du coude](./images/valeurs_propres.png)
+![Valeurs propres - Critère du coude](https://github.com/Judicha502/Analyse-des-tendances-politiques-en-France-Election-2022-/blob/main/images/histogramme.png)
 
 ---
 
