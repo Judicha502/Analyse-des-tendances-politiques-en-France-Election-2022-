@@ -52,14 +52,9 @@ La matrice de corrélation permet d’identifier les liens entre les votes des c
 ## 🧮 Analyse géométrique des données (ACP)
 
 ### Pourquoi une ACP ?
-Nous utilisons une **Analyse en Composantes Principales (ACP)** car :
+Parce que : 
 - Les données sont **quantitatives** et nombreuses.  
 - L’objectif est d’observer les **tendances politiques régionales** à partir des votes.
-
-### Choix du nombre d’axes
-Deux critères ont été utilisés :
-- **Critère du coude** : rupture nette après le 4ᵉ axe.  
-- **Critère de Kaiser** : conservation des axes avec une **valeur propre > 1**.  
 
 ➡️ **4 axes** retenus → expliquent **79 %** de l’inertie totale.  
 (34.22 % + 21.66 % + 14.63 % + 8.51 %)
@@ -91,7 +86,7 @@ Oppose :
 
 📉 **Projection des variables (candidats) :**
 
-![ACP - Candidats](./images/acp_candidats.png)
+![ACP - Candidats](https://github.com/Judicha502/Analyse-des-tendances-politiques-en-France-Election-2022-/blob/main/images/axe1%20copy.png)
 
 ---
 
@@ -107,7 +102,7 @@ Cette **polarisation nord-sud** met en lumière des différences probablement li
 ---
 
 ## 🧩 Conclusion
-L’analyse statistique et factorielle met en évidence une **fracture politique géographique** en France :
+Cette analyse statistique et factorielle met en évidence une **fracture politique géographique** en France :
 - 🧭 **Nord et centre** → votes orientés à **droite** ou **extrême droite**  
 - 🌞 **Sud** → votes davantage portés vers la **gauche**
 
@@ -118,10 +113,3 @@ Ces résultats confirment que les comportements électoraux sont étroitement li
 ## 🧰 Technologies utilisées
 - **R / Excel** : analyses des données 
 - **ACP (Analyse en Composantes Principales)** : réduction dimensionnelle & visualisation
-
----
-
-## 📂 Fichiers
-- `pres2022comm.csv` : dataset des élections 2022  
-- `Projet_election_2022.R` : le code
-- `Projet_election_2022.pdf` : rapport du projet
