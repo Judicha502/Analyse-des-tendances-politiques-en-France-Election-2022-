@@ -87,7 +87,7 @@ Oppose :
 
 📈 **Projection des individus (départements) :**
 
-![ACP - Départements](./images/acp_departements.png)
+![ACP - Départements](https://github.com/Judicha502/Analyse-des-tendances-politiques-en-France-Election-2022-/blob/main/images/axe1.png)
 
 📉 **Projection des variables (candidats) :**
 
