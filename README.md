@@ -45,7 +45,7 @@ La matrice de corrélation permet d’identifier les liens entre les votes des c
 
 📊 **Illustration :**
 
-![Matrice de corrélation](./images/matrice_correlation.png)
+![Matrice de corrélation](https://github.com/Judicha502/Analyse-des-tendances-politiques-en-France-Election-2022-/blob/main/images/matrice%20de%20corre%CC%81lation.png)
 
 ---
 
